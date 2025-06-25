@@ -1,0 +1,3 @@
+FlightNumber,Origin,Destination,Hour,Minute,Day,Month,Year,Distance,Seats
+A123,CNB,PRY,1,2,20,6,2025,200,80
+A426,AHM,DEL,3,10,27,6,2025,700,150
